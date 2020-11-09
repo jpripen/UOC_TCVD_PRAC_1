@@ -17,17 +17,22 @@ La actividad ha sido realizada por Juan Alonso Franco Blanco y Juan Prieto Pena.
 * PreciosViviendaPorPais.csv Dataset
 * PreciosViviendaPorPais.ipynb Código fuente
 
-## ** código fuente**
+## **código fuente**
 
 Extrae los precios de la vivienda de la página web del preciosmundi.com 
 
 Para ejecutar el script es necesario importar las siguientes librerías:
 
 from bs4 import BeautifulSoup
+
 import requests
+
 import pandas as pd
+
 import numpy as np
+
 import time
+
 
 El script es un notebook que se ejecuta de manera interactiva.
 
