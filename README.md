@@ -1,5 +1,6 @@
 # **Práctica 1: Web scraping**
 
+Se reproduce aquí la información disponible en la wiki del repositorio:
 
 ## **Descripción**
 
