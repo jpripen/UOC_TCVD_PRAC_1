@@ -13,11 +13,11 @@ La actividad ha sido realizada por Juan Alonso Franco Blanco y Juan Prieto Pena.
 ## **Ficheros**
 
 * Readme: Este documento
-* Código fuente: PreciosViviendaPorPais.ipynb
 * TCVD_JAFB_JPP_PRAC1.pdf Memoria de la práctica
 * PreciosViviendaPorPais.csv Dataset
+* Carpeta "código fuente"
 
-## **Código fuente**
+## **Carpeta código fuente**
 
 Extrae los precios de la vivienda de la página web del preciosmundi.com 
 
